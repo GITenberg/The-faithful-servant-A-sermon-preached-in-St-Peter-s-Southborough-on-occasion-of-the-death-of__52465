@@ -1,5 +1,8 @@
 _repo: The-faithful-servant-A-sermon-preached-in-St-Peter-s-Southborough-on-occasion-of-the-death-of__52465
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hoare, Edward
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '39940'
     url: http://www.gutenberg.org/2009/agents/39940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52465#The-faithful-servant-A-sermon-preached-in-St-Peter-s-Southborough-on-occasion-of-the-death-of_
 gutenberg_issued: '2016-06-30'
 gutenberg_type: Text
 identifiers:
