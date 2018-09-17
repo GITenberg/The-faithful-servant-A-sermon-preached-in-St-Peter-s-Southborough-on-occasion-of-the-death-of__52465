@@ -1,0 +1,27 @@
+_repo: The-faithful-servant-A-sermon-preached-in-St-Peter-s-Southborough-on-occasion-of-the-death-of__52465
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2016-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Langston, Stephen, -1878 -- Death and burial -- Sermons'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcc 'BV'
+- !lcsh 'Funeral sermons'
+- GITenberg
+title: "The faithful servant\r\nA sermon, preached in St. Peter's, Southborough, on\
+  \ occasion of the death of the Rev. Stephen Langston"
+url: http://www.gutenberg.org/ebooks/52465
